@@ -3302,23 +3302,6 @@
     "Language": "English"
   },
   {
-    "title": "A Tale of Two Critters",
-    "Directed by": "Jack Speirs",
-    "Screenplay by": "Jack Speirs",
-    "Produced by": "Jack Speirs",
-    "Narrated by": "Mayf Nutter",
-    "Edited by": "G. Gregg McLaughlin",
-    "Music by": "Buddy Baker",
-    "Production company": "Walt Disney Productions",
-    "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "June 20, 1977"
-    ],
-    "Running time": "48 minutes",
-    "Country": "United States",
-    "Language": "English"
-  },
-  {
     "title": "The Rescuers",
     "Directed by": [
       "Wolfgang Reitherman",
@@ -5303,7 +5286,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million",
-    "Box office": "$968.5 million"
+    "Box office": "$968.4 million"
   },
   {
     "title": "Angels in the Outfield",
@@ -5345,7 +5328,10 @@
       "Mandy Patinkin"
     ],
     "Cinematography": "Robbie Greenberg",
-    "Edited by": "Lisa Day Gillian Hutshing",
+    "Edited by": [
+      "Lisa Day",
+      "Gillian Hutshing"
+    ],
     "Music by": "Joel McNeely",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures Distribution",
@@ -5353,9 +5339,12 @@
       "October 28, 1994"
     ],
     "Running time": "102 minutes",
-    "Countries": "United States Canada",
+    "Countries": [
+      "United States",
+      "Canada"
+    ],
     "Language": "English",
-    "Box office": "$3,337,685"
+    "Box office": "$3.3 million"
   },
   {
     "title": "The Santa Clause",
@@ -6311,8 +6300,15 @@
   {
     "title": "Air Bud",
     "Directed by": "Charles Martin Smith",
-    "Written by": "Paul Tamasy Aaron Mendelsohn",
-    "Produced by": "Robert Vince William Vince Harvey Weinstein",
+    "Written by": [
+      "Paul Tamasy",
+      "Aaron Mendelsohn"
+    ],
+    "Produced by": [
+      "Robert Vince",
+      "William Vince",
+      "Harvey Weinstein"
+    ],
     "Starring": [
       "Michael Jeter",
       "Kevin Zegers",
@@ -6328,12 +6324,19 @@
       "Keystone Pictures",
       "Buddy Films, Inc."
     ],
-    "Distributed by": "Buena Vista Pictures Distribution (via Walt Disney Pictures ; United States) Malofilm (Canada)",
+    "Distributed by": [
+      "Buena Vista Pictures Distribution (via Walt Disney Pictures ; United States)",
+      "Malofilm (Canada)",
+      "Warner Home Video (United Kingdom)"
+    ],
     "Release date": [
       "August 1, 1997"
     ],
     "Running time": "98 minutes",
-    "Countries": "United States Canada",
+    "Countries": [
+      "United States",
+      "Canada"
+    ],
     "Language": "English",
     "Budget": "$3 million",
     "Box office": "$27.8 million"
@@ -7257,7 +7260,8 @@
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release dates": [
       "November 13, 1999 ( El Capitan Theatre )",
-      "November 24, 1999 (United States)"
+      "November 24, 1999 (United States)",
+      "February 11, 2000 (United Kingdom)"
     ],
     "Running time": "92 minutes",
     "Country": "United States",
@@ -8621,8 +8625,8 @@
       "Chicago Pacific Entertainment"
     ],
     "Distributed by": [
-      "Buena Vista Pictures Distribution (Selected territories)",
-      "Summit Entertainment (International)"
+      "Buena Vista Pictures Distribution (Worldwide)",
+      "Summit Entertainment (Selected territories)"
     ],
     "Release date": [
       "April 11, 2003 (United States)"
@@ -9584,7 +9588,7 @@
     "Distributed by": "Walt Disney Home Entertainment",
     "Release dates": [
       "November 3, 2004 (Italy)",
-      "February 1, 2005 (United States)"
+      "December 28, 2004 (United States)"
     ],
     "Running time": "79 minutes",
     "Country": "United States",
@@ -9675,10 +9679,10 @@
     "Release date": [
       "March 18, 2005"
     ],
-    "Running time": "97 minutes",
+    "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$60 million",
+    "Budget": "$25 million",
     "Box office": "$27.6 million"
   },
   {
@@ -10507,7 +10511,8 @@
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release dates": [
       "October 13, 1993 (limited)",
-      "October 29, 1993 (United States)"
+      "October 29, 1993 (United States)",
+      "November 25, 1994 (United Kingdom)"
     ],
     "Running time": "76 minutes",
     "Country": "United States",
@@ -11688,18 +11693,16 @@
     "Narrated by": "Grey DeLisle",
     "Edited by": "Jeremy Milton",
     "Music by": "Joel McNeely",
-    "Production companies": "Universal Pictures Hit Entertainment Imagine Entertainment",
-    "Distributed by": "Universal Studios Home Entertainment (United States) Hit Entertainment (International)",
-    "Release dates": [
-      "June 5, 2009 (Japan)",
-      "October 27, 2009 (United States)",
-      "February 15, 2010 (Hindi)"
+    "Production company": "Disneytoon Studios",
+    "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Release date": [
+      "October 27, 2009 (United States)"
     ],
     "Running time": "82 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$30—$35 million",
-    "Box office": "$8,582,265"
+    "Box office": "$8.6 million"
   },
   {
     "title": "Книга Мастеров",
@@ -12029,7 +12032,7 @@
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release dates": [
       "July 8, 2010 (Fantasia Film Festival)",
-      "July 14, 2010"
+      "July 14, 2010 (United States)"
     ],
     "Running time": "109 minutes",
     "Country": "United States",
@@ -12438,9 +12441,7 @@
       "Michael Caine",
       "Emily Mortimer",
       "John Turturro",
-      "Eddie Izzard",
-      "Thomas Kretschmann",
-      "Joe Mantegna"
+      "Eddie Izzard"
     ],
     "Cinematography": [
       "Jeremy Lasky",
@@ -13397,7 +13398,7 @@
     "Cinematography": "Tushar Kanti Ray",
     "Edited by": "Bakul Matiyani",
     "Music by": "Songs: Sneha Khanwalkar Badshah Amaal Mallik Background Score: Simaab Sen",
-    "Production companies": "Walt Disney Pictures India Anil Kapoor Films Company",
+    "Production companies": "Walt Disney Pictures Anil Kapoor Films Company",
     "Distributed by": "UTV Motion Pictures",
     "Release date": [
       "19 September 2014"
@@ -14239,13 +14240,14 @@
       "Nicole Scherzinger",
       "Alan Tudyk"
     ],
-    "Cinematography": "Rob Dressel (layout) Adolph Lusinsky (lighting)",
+    "Cinematography": "Adolph Lusinsky (lighting)",
     "Edited by": "Jeff Draheim",
     "Music by": [
       "Mark Mancina",
       "Lin-Manuel Miranda",
       "Opetaia Foa'i"
     ],
+    "Layouts by": "Rob Dressel",
     "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
@@ -14635,7 +14637,7 @@
     ],
     "Running time": "105 minutes",
     "Country": "United States",
-    "Languages": "English Spanish",
+    "Language": "English",
     "Budget": "$175–225 million",
     "Box office": "$814.3 million"
   },
@@ -16524,7 +16526,7 @@
       "Walt Disney Pictures",
       "Mandeville Films"
     ],
-    "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Distributed by": "Disney+",
     "Release dates": [
       "May 16, 2022 ( Hollywood, California )",
       "May 20, 2022 ( Disney+ )"
@@ -16784,7 +16786,7 @@
       "Gabrielle Union",
       "Lucy Liu"
     ],
-    "Cinematography": "Tracy Scott Beattie (layout) Brian Leach (lighting)",
+    "Cinematography": "Tracy Scott Beattie (layout) Brian Leach shot\n(lighting)",
     "Edited by": "Sarah K. Reimers",
     "Music by": "Henry Jackman",
     "Production companies": [
@@ -17077,7 +17079,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$480.3 million"
+    "Box office": "$486.7 million"
   },
   {
     "title": "World's Best",
@@ -17152,7 +17154,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$295–300 million",
-    "Box office": "$382.3 million"
+    "Box office": "$382.9 million"
   },
   {
     "title": "Haunted Mansion",
@@ -17189,7 +17191,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150–157.8 million",
-    "Box office": "$101.3 million"
+    "Box office": "$109.5 million"
   },
   {
     "title": "Dashing Through the Snow",
@@ -17234,6 +17236,7 @@
     "Starring": [
       "Ariana DeBose",
       "Chris Pine",
+      "Angelique Cabral",
       "Alan Tudyk"
     ],
     "Music by": "David Metzger",
@@ -17245,6 +17248,7 @@
     "Release date": [
       "November 22, 2023"
     ],
+    "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million"
@@ -17259,14 +17263,14 @@
       "Erica Cerra",
       "Hunter Dillon"
     ],
-    "Music by": "John Paesano",
+    "Music by": "John Paesano Music Video - Silence Performed by Celebration Society",
     "Production companies": [
       "Walt Disney Pictures",
       "Bardel Entertainment"
     ],
     "Distributed by": "Disney+",
     "Release date": "December 8, 2023",
-    "Countries": "United States Canada",
+    "Country": "United States",
     "Language": "English"
   },
   {
@@ -17279,6 +17283,10 @@
       "America Ferrera",
       "Jameela Jamil",
       "Brad Garrett"
+    ],
+    "Cinematography": [
+      "Matt Aspbury (camera)",
+      "Danielle Feinberg (lighting)"
     ],
     "Production companies": [
       "Walt Disney Pictures",
@@ -17418,13 +17426,14 @@
       "Nicole Scherzinger",
       "Alan Tudyk"
     ],
-    "Cinematography": "Rob Dressel (layout) Adolph Lusinsky (lighting)",
+    "Cinematography": "Adolph Lusinsky (lighting)",
     "Edited by": "Jeff Draheim",
     "Music by": [
       "Mark Mancina",
       "Lin-Manuel Miranda",
       "Opetaia Foa'i"
     ],
+    "Layouts by": "Rob Dressel",
     "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
